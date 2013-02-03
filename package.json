@@ -1,0 +1,22 @@
+{
+    "name": "jsymfony-base",
+    "description": "JSymfony base",
+    "version": "0.0.1",
+    "author": "Vasily Khayrulin <sirianru@gmail.com>",
+    "keywords": ["jsymfony", "base"],
+    "dependencies": {
+        "jsymfony-autoload": "*",
+        "sprintf": "0.1.1",
+        "lodash": "*"
+    },
+    "engines": {
+        "node": ">= 0.8.16"
+    },
+    "bugs": {
+        "url": "https://github.com/jsymfony/base/issues/new"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jsymfony/base.git"
+    }
+}
